@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the Reliable Autonomous Systems Lab at MIT (REALM)! We design, analyze and verify safe control systems. Our work lies at the intersection of control theory, machine learning, and formal methods, with a focus on safety in systems with nonlinear, high-dimensional and difficult-to-model dynamics.
+Welcome to our lab.
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
-OUR PEOPLE
+Our People
 ======
-Learn more about our organization, member groups and PI 
+Learn more about our organization, member groups and PI .
 
 Recent News
 ======
