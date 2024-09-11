@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Principal Investigator"
+title: ""
 permalink: /member/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
+Principal Investigator
 ======
 Yanan Li
 
