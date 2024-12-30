@@ -11,6 +11,6 @@ nav_order: 4
 ### [Mechanics of Mechanisms and Robots](https://www.sussex.ac.uk/ei/internal/coursesandmodules/engineeringdesign/modules/2024/97461#tabs-core) (870H1)  
 
 
-### [Undergraduate Year 3 Individual Project](https://www.sussex.ac.uk/ei/internal/coursesandmodules/engineeringdesign/modules/2024/97241#tabs-contacts)  
+### [Undergraduate Year 3 Individual Project](https://www.sussex.ac.uk/ei/internal/coursesandmodules/engineeringdesign/modules/2024/97241#tabs-core)  
 
-### [Master of Science Robotics & Autonomous Systems Project](https://www.sussex.ac.uk/ei/internal/coursesandmodules/engineeringdesign/modules/2024/97463#tabs-contacts)  
+### [Master of Science Robotics & Autonomous Systems Project](https://www.sussex.ac.uk/ei/internal/coursesandmodules/engineeringdesign/modules/2024/97463#tabs-core)  
