@@ -1,0 +1,3 @@
+<strong>BIO:</strong> Dr. Yongding Zhang received the B.S. degree in Computer Science and Technology from Shaanxi Normal University, Xi’an, China, in 2005, the M.S. degree in Computer Application Technology from Hefei University of Technology, Hefei, China, in 2013, and the Ph.D. degree from the College of Computer and Information, Hohai University, Nanjing, China, in 2021. He is now an associate professor and the head of the Computer Science and Technology program at the School of Computer and Information Engineering at Chuzhou University, Chuzhou, China.
+
+<strong>Research interests:</strong> His current research interests include intelligent navigation technology, integrated navigation, and intelligent control. 
